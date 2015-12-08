@@ -88,9 +88,25 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header
+{
+    width: 100%;
+    background: #003d7c;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    height: 77px !important;
+}
 
-
-
+footer 
+{
+    width: 100%;
+    background: #003d7c;
+    position: fixed; 
+    left: 0;
+    bottom: 0;
+    height: 32px !important;
+}
 
 
 
